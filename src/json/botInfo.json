@@ -1,0 +1,62 @@
+{
+  "botname": "Zacros Bot",
+  "ownerNumber": [
+    "YOUR NUMBER"
+  ],
+  "website": "https://zacros.my.id/",
+  "settings": {
+    "callBlock": true,
+    "autoRead": true
+  },
+  "linkApi": {
+    "zacros": "https://api.zacros.my.id"
+  },
+  "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
+  "footerText": "© Zacros Team",
+  "prefix": [
+    ".",
+    "!",
+    "#",
+    "_",
+    "/",
+    "+",
+    ","
+  ],
+  "ownername": "Zacros Team",
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "┃",
+    "upper": "┏",
+    "down": "┗",
+    "line": "━",
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ],
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ]
+  },
+  "response": {
+    "owner": "*REJECTED!* | Perintah Ini Khusus Owner",
+    "admin": "*REJECTED!* | Perintah Ini Khusus Admin",
+    "group": "*REJECTED!* | Perintah Ini Khusus Group",
+    "wait": "*WAIT!* | Mohon Tunggu Sebentar...",
+    "private": "*REJECTED!* | Perintah Ini Khusus Private",
+    "notUrl": "*REJECTED!* | Link Invalid",
+    "media": "*REJECTED!* | Pesan Harus Media",
+    "mentioned": "*REJECTED!* | Tag Orang",
+    "quoted": "*REJECTED!* | Tag Pesan",
+    "_media": "*REJECTED!* | Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
+    "Error": "*ERROR!* | Terjadi Kesalahan Saat Mengirim Media/Pesan",
+    "fromMe": "*REJECTED!* | Pesan Yang Di Balas Harus Dari Bot",
+    "botAdmin": "*REJECTED!* | Bot Harus Admin"
+  },
+  "session": null
+}
