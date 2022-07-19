@@ -1,18 +1,18 @@
 {
-  "botname": "Zacros Bot",
+  "botname": "Nabilz-BOT",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "62895384148971"
   ],
-  "website": "https://zacros.my.id/",
+  "website": "",
   "settings": {
-    "callBlock": true,
+    "callBlock": false,
     "autoRead": true
   },
   "linkApi": {
     "zacros": "https://api.zacros.my.id"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "© Zacros Team",
+  "footerText": "© Nabilz",
   "prefix": [
     ".",
     "!",
@@ -22,7 +22,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "Nabilz",
   "unicode": {
     "head": "⬣",
     "list": "⬡",
